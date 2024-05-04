@@ -24,8 +24,4 @@ Objectif à distance : [10-1000 m]
 
 Lisse : [1-100]
 
-Assistance anti-triche
-
-Anti-triche facile
-Battleye anti-triche
-Preuve de flux
+Anti-Cheat Support: Easy anti cheat, Battleye anti cheat, Stream Proof.
