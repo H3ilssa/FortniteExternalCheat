@@ -25,4 +25,4 @@ Objectif à distance : [10-1000 m]
 
 Lisse : [1-100]
 
-Anti-Cheat Support: Easy anti cheat, Battleye anti cheat, Stream Proof.
+Anti-Cheat Support: EAC 100%, Battleye anti cheat, Stream Proof.
